@@ -16,7 +16,11 @@ This repository presents a lightweight few-shot learning approach for detecting 
   - Testing: **97.92%**
 
 ---
+## Sample Dataset
 
+![bearing](https://github.com/user-attachments/assets/1fe8b8a0-c917-409f-bcac-d9bbe42c1c00)
+
+---
 ## Dependencies
 
 ```text
